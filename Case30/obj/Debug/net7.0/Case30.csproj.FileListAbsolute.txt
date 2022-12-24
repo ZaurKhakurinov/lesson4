@@ -1,0 +1,15 @@
+/Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case30/obj/Debug/net7.0/Case30.csproj.AssemblyReference.cache
+/Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case30/obj/Debug/net7.0/Case30.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case30/obj/Debug/net7.0/Case30.AssemblyInfoInputs.cache
+/Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case30/obj/Debug/net7.0/Case30.AssemblyInfo.cs
+/Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case30/obj/Debug/net7.0/Case30.csproj.CoreCompileInputs.cache
+/Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case30/bin/Debug/net7.0/Case30
+/Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case30/bin/Debug/net7.0/Case30.deps.json
+/Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case30/bin/Debug/net7.0/Case30.runtimeconfig.json
+/Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case30/bin/Debug/net7.0/Case30.dll
+/Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case30/bin/Debug/net7.0/Case30.pdb
+/Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case30/obj/Debug/net7.0/Case30.dll
+/Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case30/obj/Debug/net7.0/refint/Case30.dll
+/Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case30/obj/Debug/net7.0/Case30.pdb
+/Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case30/obj/Debug/net7.0/Case30.genruntimeconfig.cache
+/Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case30/obj/Debug/net7.0/ref/Case30.dll
