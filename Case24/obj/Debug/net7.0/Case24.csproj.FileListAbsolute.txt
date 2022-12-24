@@ -3,3 +3,13 @@
 /Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case24/obj/Debug/net7.0/Case24.AssemblyInfoInputs.cache
 /Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case24/obj/Debug/net7.0/Case24.AssemblyInfo.cs
 /Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case24/obj/Debug/net7.0/Case24.csproj.CoreCompileInputs.cache
+/Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case24/bin/Debug/net7.0/Case24
+/Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case24/bin/Debug/net7.0/Case24.deps.json
+/Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case24/bin/Debug/net7.0/Case24.runtimeconfig.json
+/Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case24/bin/Debug/net7.0/Case24.dll
+/Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case24/bin/Debug/net7.0/Case24.pdb
+/Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case24/obj/Debug/net7.0/Case24.dll
+/Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case24/obj/Debug/net7.0/refint/Case24.dll
+/Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case24/obj/Debug/net7.0/Case24.pdb
+/Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case24/obj/Debug/net7.0/Case24.genruntimeconfig.cache
+/Users/zaurhakurinov/Desktop/geek brains/С#/С-4/Case24/obj/Debug/net7.0/ref/Case24.dll
